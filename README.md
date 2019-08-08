@@ -44,8 +44,8 @@ This study opens a research path that can promote the use of RNN and PSSM profil
 
 ## Download
 
-- Data and code for training models: [download (223MB)](TrainDataPSSM.zip)
-- Data and code for testing models: [download (34MB)](TestDataPSSM.zip)
+- Data and code for training models: [download (223MB)](http://homepages.ecs.vuw.ac.nz/~nguyenb5/bioinformatics/adaptors/TrainDataPSSM.zip)
+- Data and code for testing models: [download (34MB)](http://homepages.ecs.vuw.ac.nz/~nguyenb5/bioinformatics/adaptors/TestDataPSSM.zip)
 
 ## Contact
 
