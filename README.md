@@ -6,7 +6,7 @@ Adaptor proteins are carrier proteins that play a crucial role in signal transdu
 
 We collected all the proteins from UniProt with GO molecular function annotations related to adaptor proteins. An important selection criteria is that we had to select the reviewed sequences, which means they had been published in scientific papers. Thus, the full query for collecting data was:
 
-$\texttt{``keyword:``adaptor'' OR goa:(``adaptor'')) AND reviewed:yes''}$
+keyword:``adaptor'' OR goa:(``adaptor'')) AND reviewed:yes
 
 After this step, we received 4,049 adaptor proteins in all species. 
 
